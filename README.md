@@ -1,1 +1,1 @@
-# LingProg2
+# LingProg
